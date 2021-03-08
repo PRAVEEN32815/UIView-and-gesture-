@@ -17,22 +17,6 @@ class ViewController: UIViewController{
     let display1:UIView = UIView(frame: CGRect(x: 145, y: 20, width: 125, height: 125))
     let embeddedDisplay1:UIView = UIView(frame: CGRect(x: 145, y: 20, width: 125, height: 125 ))
     
-    
-//    let display2:UIView = UIView(frame: CGRect(x: 10, y: 155, width: 125, height: 125))
-//    let embeddedDisplay2:UIView = UIView(frame: CGRect(x: 10, y: 155, width: 125, height: 125 ))
-//    
-//    
-//    let display3:UIView = UIView(frame: CGRect(x: 145, y: 290, width: 125, height: 125))
-//    let embeddedDisplay3:UIView = UIView(frame: CGRect(x: 145, y: 290, width: 125, height: 125 ))
-//    
-//    
-//    let display4:UIView = UIView(frame: CGRect(x: 10, y: 425, width: 125, height: 125))
-//    let embeddedDisplay4:UIView = UIView(frame: CGRect(x: 10, y: 425, width: 125, height: 125 ))
-//    
-//    
-//    let display5:UIView = UIView(frame: CGRect(x: 145, y: 425, width: 125, height: 125))
-//    let embeddedDisplay5:UIView = UIView(frame: CGRect(x: 145, y: 425, width: 125, height: 125 ))
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .yellow
